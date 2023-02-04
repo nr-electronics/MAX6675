@@ -2,4 +2,4 @@
 
 
 
-![](https://github.com/nr-electronics/Video_STM32H743VIT/blob/main/MAX6675-K-thermocouples.jpg)
+![](https://github.com/nr-electronics/MAX6675/blob/main/MAX6675-K-thermocouples.jpg)
