@@ -28,7 +28,7 @@
  * 
  *
  *  YouTube: https://www.youtube.com/@NRelectronics
- *  GitHub: https://github.com/
+ *  GitHub: https://github.com/nr-electronics/MAX6675/
  *  ВК: https://vk.com/nr.electronics 
  *  Документация: https://static.chipdip.ru/lib/105/DOC001105916.pdf
  *  
